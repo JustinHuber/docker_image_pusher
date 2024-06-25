@@ -1,1 +1,1 @@
-kangkang223/openwrt
+nginx
