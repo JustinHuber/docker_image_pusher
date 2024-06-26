@@ -1,1 +1,1 @@
-nginx
+kangkang223/openwrt:latest
