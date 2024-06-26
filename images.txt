@@ -1,1 +1,1 @@
-openwrt/openwrt:latest
+onething1/wxedge
