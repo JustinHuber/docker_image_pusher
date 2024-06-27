@@ -1,1 +1,1 @@
-onething1/wxedge:latest
+ kangkang223/reader
