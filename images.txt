@@ -1,4 +1,4 @@
 centos
 sulinggg/openwrt
 gdy666/lucky
-arm/linuxserver/transmission
+arm64v8/ubuntu:latest
