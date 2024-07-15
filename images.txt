@@ -2,4 +2,4 @@ centos
 sulinggg/openwrt
 gdy666/lucky
 arm64v8/ubuntu:latest
-arm64v8/linuxserver/docker-transmission
+arm64v8/linuxserver/transmission:latest
