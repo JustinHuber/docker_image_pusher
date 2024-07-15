@@ -1,4 +1,4 @@
 centos
 sulinggg/openwrt
 gdy666/lucky
-transmission
+linuxserver/transmission --platform=arm
