@@ -3,3 +3,5 @@ sulinggg/openwrt
 gdy666/lucky
 arm64v8/ubuntu:latest
 --platform linux/arm64 linuxserver/transmission:latest
+--platform linux/arm64 xhofe/alist:latest
+
